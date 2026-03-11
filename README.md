@@ -29,7 +29,7 @@ Predicts a Pokémon's evolution stage from its base stats, using a classifier tr
 | 6. Best Model Evaluation | Classification report + confusion matrix on Gen 1–3 holdout |
 | 7. Gen 4 Generalization | How well the model transfers to unseen Pokémon |
 | 8. Predict Any Pokémon | `predict_evolution_stage("lucario")` — works by name or Pokédex ID |
-| 9. Summary | Auto-generated accuracy table and key findings |
+| 9. Summary | Accuracy table and key findings |
 
 ---
 
